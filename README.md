@@ -1,7 +1,3 @@
-#0x1D. C - Binary tree
-## Binary Tree Project
-# binary_trees
+# Binary Trees
 
-## Binary Tree Project
-# binary_trees
-
+***code By :Thejo96 & Yassine754 
